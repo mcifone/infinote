@@ -1,9 +1,6 @@
 infinote
 ========
 
-Infinote DRupal setup
-
-
 Here will be information regarding the setup and implementation of infinote.com.
 
 This page should contain all source for the website.
